@@ -1,0 +1,15 @@
+aws_profile = "default"
+
+aws_region = "us-west-2"
+
+vpc_id = "vpc-01234567"
+
+vpc_subnet_id = "subnet-01234567"
+
+vsphere_server = "vcenter.sddc-0-0-0-0.vmwarevmc.com"
+
+num_labs = 1
+
+workload_vm_template_name = "amazon-linux-2"
+
+file_gateway_vm_template_name = "file-gateway"
