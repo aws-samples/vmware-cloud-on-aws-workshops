@@ -1,13 +1,7 @@
-## My Project
+# VMware Cloud on AWS Workshops
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+VMware Cloud on AWS workshop content: lab guides, infrastructure code, et cetera.
 
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
-
